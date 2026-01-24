@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Performance Analytics</title>
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <style>
+    body {
+      font-family: Poppins, Arial;
+      background: #f4f6f9;
+      padding: 20px;
+    }
+
+    h2 {
+      margin-bottom: 15px;
+    }
+
+    .filters {
+      margin-bottom: 20px;
+    }
+
+    select {
+      padding: 8px;
+      margin-right: 10px;
+    }
+
+    .chart-box {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+<h2>📊 Student Performance Analytics</h2>
+
+<!-- FILTERS -->
+<div class="filters">
+  <select id="subjectFilter">
+    <option value="all">All Subjects</option>
+  </select>
+
+  <select id="batchFilter">
+    <option value="all">All Batches</option>
+  </select>
+
+  <select id="nameFilter">
+    <option value="all">All Students</option>
+  </select>
+</div>
+
+<!-- GRAPH -->
+<canvas id="scoreChart" height="120"></canvas>
+<!-- SUMMARY CARDS -->
+<div class="summary">
+  <div class="card">
+    <h3>Total Students</h3>
+    <p id="totalStudents">0</p>
+  </div>
+  <div class="card">
+    <h3>Highest Score</h3>
+    <p id="highestScore">0%</p>
+  </div>
+  <div class="card">
+    <h3>Average Score</h3>
+    <p id="averageScore">0%</p>
+  </div>
+  <div class="card">
+    <h3>Lowest Score</h3>
+    <p id="lowestScore">0%</p>
+  </div>
+</div>
+
+<!-- DETAILS TABLE -->
+<h3 style="margin-top:30px;">📋 Detailed Marks</h3>
+<table border="1" width="100%" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Subject</th>
+      <th>Batch</th>
+      <th>Score (%)</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody id="resultTable"></tbody>
+</table>
+
+
+<!-- Firebase -->
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+
+<script>
+  const firebaseConfig = {
+    apiKey: "AIzaSyCCuXVMiWIJuIt5Xsp2FATyuj7KNSnTC9c",
+    authDomain: "online-test-portal-e2c48.firebaseapp.com",
+    projectId: "online-test-portal-e2c48",
+  };
+  firebase.initializeApp(firebaseConfig);
+  const db = firebase.firestore();
+</script>
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- YOUR LOGIC -->
+<script src="analytics.js"></script>
+
+</body>
+
+</html>

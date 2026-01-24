@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "title": "Software Part-1",
+      "description": "Basics of Software",
+      "duration": 25,
+      "course": "Software_Part-1",
+      "questions": [
+        {
+          "id": 1,
+          "type": "mcq",
+          "question": "Computer = ______ + Hardware",
+          "options": [
+            "Keyboard",
+            "Software",
+            "Monitor",
+            "Mouse"
+          ],
+          "correctAnswer": "Software",
+          "points": 1
+        },
+        {
+          "id": 2,
+          "type": "mcq",
+          "question": "Software = ______",
+          "options": [
+            "Things you can touch",
+            "Physical parts",
+            "Collection of programs",
+            "Only WhatsApp"
+          ],
+          "correctAnswer": "Collection of programs",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Introduction to MS PowerPoint Part-1",
+      "description": "Test on Introduction to MS PowerPoint",
+      "duration": 15,
+      "course": "MS_PowerPoint_Part-1",
+      "questions": [
+        {
+          "id": 1,
+          "type": "mcq",
+          "question": "When MS PowerPoint opens, it shows _____.",
+          "options": [
+            "Only blank slide",
+            "Blank + templates",
+            "Only templates",
+            "Folder list"
+          ],
+          "correctAnswer": "Blank + templates",
+          "points": 1
+        },
+        {
+          "id": 2,
+          "type": "mcq",
+          "question": "In PowerPoint, a page is called a _____.",
+          "options": [
+            "Sheet",
+            "Page",
+            "Slide",
+            "Screen"
+          ],
+          "correctAnswer": "Slide",
+          "points": 1
+        }
+      ]
+    }
+  ]
+}

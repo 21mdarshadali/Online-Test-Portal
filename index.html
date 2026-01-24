@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <title>New Ideal Computer Education | Home</title> -->
+    <title> Computer Education | Home</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+        <style>
+           .download-notes {
+    text-align: center;
+    padding: 30px 20px;
+    background: #f8fafc;
+    border-radius: 12px;
+    max-width: 900px;
+    max-height: 200px;
+    margin: 30px auto;
+}
+
+.download-notes h2 {
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+
+.download-notes p {
+    color: #555;
+    margin-bottom: 25px;
+}
+
+.notes-box {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.notes-box select {
+    padding: 12px;
+    min-width: 320px;
+    font-size: 15px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.btn-download {
+    padding: 12px 22px;
+    background: #4f46e5;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-download:hover {
+    background: #3730a3;
+}
+
+
+        </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <nav class="navbar">
+                <div class="logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <h2>Computer Education</h2>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="#" class="active">Home</a></li>
+                    <li><a href="analytics.html" id="view-results">View Results</a></li>
+                </ul>
+
+                <!-- 🌙 Dark Mode Button -->
+    <button id="theme-toggle" class="theme-btn" aria-label="Toggle dark mode">
+        🌙
+    </button>
+            </nav>
+        </header>
+
+        <main class="home-main">
+            <section class="hero">
+                <div class="hero-content">
+                    <h2>Welcome to the Online Test Portal</h2>
+                    <p>Take your assessments in a secure, user-friendly environment with real-time monitoring and
+                        instant results.</p>
+                    <div class="stats">
+                        <div class="stat">
+                            <i class="fas fa-users"></i>
+                            <h3>15+</h3>
+                            <p>Students Tested</p>
+                        </div>
+                        <div class="stat">
+                            <i class="fas fa-check-circle"></i>
+                            <h3>98%</h3>
+                            <p>Satisfaction Rate</p>
+                        </div>
+                        <div class="stat">
+                            <i class="fas fa-clock"></i>
+                            <h3>Instant</h3>
+                            <p>Results Generated</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                        alt="Online Test">
+                </div>
+            </section>
+
+            
+
+            <section class="test-info">
+                <h2>Test Instructions</h2>
+                <div class="instructions">
+                    <div class="instruction">
+                        <i class="fas fa-desktop"></i>
+                        <h3>Full Screen Mode</h3>
+                        <p>The test will automatically start in full screen mode to ensure a distraction-free
+                            environment.</p>
+                    </div>
+                    <div class="instruction">
+                        <i class="fas fa-clock"></i>
+                        <h3>Time Limit</h3>
+                        <p>Each test has a specific time limit. A timer will be displayed to help you manage your time.
+                        </p>
+                    </div>
+                    <div class="instruction">
+                        <i class="fas fa-question-circle"></i>
+                        <h3>Various Question Types</h3>
+                        <p>Tests include multiple choice, fill in the blanks, and true/false questions.</p>
+                    </div>
+                    <div class="instruction">
+                        <i class="fas fa-chart-bar"></i>
+                        <h3>Instant Results</h3>
+                        <p>Get detailed results immediately after test completion with performance analysis.</p>
+                    </div>
+                </div>
+            </section>
+
+<section class="download-notes">
+    <h2>Download Study Notes</h2>
+    <p>Select the chapter and download notes in PDF format</p>
+
+    <div class="notes-box">
+        <select id="notes-select">
+            <option value="">-- Select Chapter Notes --</option>
+
+            <option value="https://drive.google.com/file/d/1p0_WO9T6oJofLA754AZeJAqHVUjXWSAf/view?usp=sharing">CCC – Chapter 1: Introduction to Computer</option>
+            <option value="https://drive.google.com/file/d/1vmAl3hi0rt94aEgfzjSowcxuJg9eKkwJ/view?usp=sharing">CCC – Chapter 2: Operating System</option>
+            <option value="notes/CCC_Chapter_3.pdf">CCC – Chapter 3: MS Word</option>
+            <option value="notes/CCC_Chapter_4.pdf">CCC – Chapter 4: Spreadsheet</option>
+            <option value="notes/CCC_Chapter_5.pdf">CCC – Chapter 5: Presentation</option>
+            <option value="notes/CCC_Chapter_6.pdf">CCC – Chapter 6: Internet & WWW</option>
+            <option value="https://drive.google.com/file/d/1vWd3IBd-ST_GeeRVcPbMS3CKy1b_EPdz/view?usp=sharing">CCC – Chapter 7: Email & e-Governance</option>
+            <option value="https://drive.google.com/file/d/15G0VPp_cBaUNzf-KVndZRBGQAN7iYrc6/view?usp=sharing">CCC – Chapter 8: Digital Financial Tools</option>
+            <option value="https://drive.google.com/file/d/16Y8b2tpU2fl9dCPHffhq5ZWzZRefAovh/view?usp=sharing">CCC – Chapter 9: Cyber Security</option>
+            <option value="https://drive.google.com/file/d/1YCAoq1jOx4mPXnN9pUaisVQJxO7JHdJA/view?usp=sharing">CCC – Chapter 10: Future Skills</option>
+        </select>
+
+        <button onclick="downloadNotes()" class="btn-download">
+            <i class="fas fa-download"></i> Download Notes
+        </button>
+    </div>
+</section>
+
+
+
+            <section class="registration" id="registration">
+                <h2>Start Your Test</h2>
+                <p>Please fill in your details to begin the test</p>
+
+                <form id="registration-form">
+                    <div class="form-group">
+                        <label for="name"><i class="fas fa-user"></i> Full Name</label>
+                        <input type="text" id="name" placeholder="Enter your full name" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email"><i class="fas fa-envelope"></i> Email Address</label>
+                        <input type="email" id="email" placeholder="Enter your email" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="batch"><i class="fas fa-clock"></i> Batch Time</label>
+                        <select id="batch" required>
+                            <option value="">Select your batch time</option>
+                            <option value="evening"> (4:30 PM - 6:00 PM)</option>
+                            <!-- <option value="evening"> (6:00 PM - 7:30 PM)</option> -->
+                            <!-- <option value="evening"> (7:30 PM - 9:00 PM)</option> -->
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="course"><i class="fas fa-book"></i> Chapter</label>
+                            <select id="course" required>
+                            <option value="">Select your chapter</option>
+                            <option value="CCC_Chapter_1_Introduction_to_Computer">CCC -- Chapter-1: Introduction to Computer</option>
+                            <option value="CCC_Chapter_2_OS">CCC -- Chapter-2: OS(Operating Systems)</option>
+                            <option value="CCC_Chapter_3_MS_Word">CCC -- Chapter-3: MS Word</option>
+                            <option value="CCC_Chapter_4_Speadsheet">CCC -- Chapter-4: Spreadsheet</option>
+                            <option value="CCC_Chapter_5_Presentations">CCC -- Chapter-5: Presentations</option>
+                            <option value="CCC_Chapter_6_Internet_WWW">CCC -- Chapter-6: Internet & WWW</option>
+                            <option value="CCC_Chapter_7_E_Mail_Social_Networking_e_Governance">CCC -- Chapter-7: E-Mail, Social Networking & e-Governance</option>
+                            <option value="CCC_Chapter_8_Digital_Financial_Tools_Applications">CCC -- Chapter-8: Digital Financial Tools & Applications</option>
+                            <option value="CCC_Chapter_9_Overview_of_Cyber_Security">CCC -- Chapter-9: Overview of Cyber Security</option>
+                            <option value="CCC_Chapter_10_Overview_of_Future_Skills_Technology">CCC -- Chapter-10: Overview of Future Skills & Technology</option>
+                            <option value="Software_Part-1">Software Part-1</option>
+                            <option value="Hardware_Part-1">Hardware Part-1</option>
+                            <option value="Internet_Part-1">Internet Part-1</option>
+                            <option value="MS_Word_Part-1">MS Word Part-1</option>
+                            <option value="MS_PowerPoint_Part-1">MS PowerPoint Part-1</option>
+                            <option value="Search_Engine_Part-1">Search Engine Part-1</option>
+                            <!-- <option value="Search_Engine_and_Email_Part-2">Search Engine and Email Part-2</option> -->
+                            <option value="HTML_CSS_Part-1">HTML, CSS Part-1</option>
+                     
+                            <option value="Social_Communication">Social Communication</option>
+                            <option value="Artificial_Intelligence_Part-1">Artificial Intelligence Part-1</option>
+                            <option value="Artificial_Intelligence_Part-2">Artificial Intelligence Part-2</option>
+                            <option value="History_of_Computers_Basics_Part-1">History Of Computer Basic Part-1</option>
+                            <option value="History_and_Basic_of_Computer_Part-2">History and Basic of Computer Part-2</option>
+                            <option value="Full_Form_Computer_Basics_IT_Terminology">Full Form — Computer Basics & IT Terminology</option>
+                            <option value="Full_Form_Hardware_Electronics">Full Form — Hardware & Electronics</option>
+                            <option value="Full_Form_Memory_Storage_Data_Units">Full Form — Memory, Storage & Data Units</option>
+                            <option value="Full_Form_Networking_Concepts_Devices_Cables">Full Form — Networking (Concepts, Devices, Cables)</option>
+                            <option value="Full_Form_Internet_Protocols_Web_Technologies">Full Form — Internet Protocols& Web Technologies</option>
+                            <option value="Full_Form_Programming_Languages_Paradigms">Full Form — Programming Languages & Paradigms</option>
+                            <option value="Full_Form_Database_Terms_DBMS">Full Form — Database Terms (DBMS)</option>
+                            <option value="Full_Form_Operating_Systems_Software">Full Form — Operating Systems & Software</option>
+                            <option value="Full_Form_Input_Output_Devices">Full Form — Input / Output Devices</option>
+                            <option value="Full_Form_File_Extensions_DOC_JPG_EXE">Full Form — File Extensions (DOC, JPG, EXE, etc.)</option>
+                            <option value="Full_Form_Cyber_Security_Cryptography">Full Form — Cyber Security & Cryptography</option>
+                            <option value="Full_Form_Organizations_ISO_IEEE_NASSCOM">Full Form — Organizations (ISO, IEEE, NASSCOM, etc.)</option>
+                            <option value="Full_Form_Space_Research_Technology_Organizations">Full Form — Space, Research & Technology Organizations</option>
+                            <option value="Full_Form_Miscellaneous_Tech_Terms">Full Form — Miscellaneous Tech Terms</option>
+                            <option value="Booster_Test">Booster Test</option>
+                        </select>
+                    </div>
+
+                    <div class="terms">
+                        <input type="checkbox" id="terms" required>
+                        <label for="terms">I agree to the <a href="#">Terms & Conditions</a></label>
+                    </div>
+
+                    <button type="submit" class="btn-start-test">
+                        <i class="fas fa-play-circle"></i> Start Test
+                    </button>
+                </form>
+            </section>
+
+            <section class="features">
+                <h2>Why Choose Our Test Portal?</h2>
+                <div class="feature-list">
+                    <div class="feature">
+                        <i class="fas fa-shield-alt"></i>
+                        <h3>Secure & Safe</h3>
+                        <p>Your data is protected with advanced security measures.</p>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-mobile-alt"></i>
+                        <h3>Responsive Design</h3>
+                        <p>Take tests on any device - desktop, tablet, or mobile.</p>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-brain"></i>
+                        <h3>Adaptive Testing</h3>
+                        <p>Questions adapt to your skill level for accurate assessment.</p>
+                    </div>
+                    <div class="feature">
+                        <i class="fas fa-download"></i>
+                        <h3>Export Results</h3>
+                        <p>Download your results as PDF for future reference.</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            
+            <p>© 2025 New Ideal Computer Education. | MD ARSHAD ALI | All rights reserved.</p>
+            <p>Designed with <i class="fas fa-heart"></i> for better learning experience</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+<script>
+    function downloadNotes() {
+    const select = document.getElementById("notes-select");
+    const file = select.value;
+
+    if (!file) {
+        alert("Please select notes to download");
+        return;
+    }
+
+    window.location.href = file;
+}
+
+</script>
+
+</body>
+
+
+</html>
+
