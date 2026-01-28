@@ -28134,7 +28134,1308 @@
       "description": "This test covers fundamental concepts of Internet & WWW.",
       "duration": 70,
       "course": "CCC_Chapter_6_Internet_WWW",
-      "questions": []
+      "questions": [
+        {
+          "id": 1,
+          "type": "mcq",
+          "question": "Internet is also known as:",
+          "options": [
+            "Local Network",
+            "Global Information System",
+            "Private Network",
+            "Office Network"
+          ],
+          "correctAnswer": "Global Information System",
+          "points": 1
+        },
+        {
+          "id": 2,
+          "type": "mcq",
+          "question": "Internet is based on which protocol?",
+          "options": [
+            "HTTP",
+            "FTP",
+            "TCP/IP",
+            "SMTP"
+          ],
+          "correctAnswer": "TCP/IP",
+          "points": 1
+        },
+        {
+          "id": 3,
+          "type": "mcq",
+          "question": "Internet started in India in which year?",
+          "options": [
+            "1989",
+            "1991",
+            "1995",
+            "2000"
+          ],
+          "correctAnswer": "1995",
+          "points": 1
+        },
+        {
+          "id": 4,
+          "type": "mcq",
+          "question": "Who is known as the Father of Internet?",
+          "options": [
+            "Tim Berners-Lee",
+            "Bill Gates",
+            "Vinton Cerf",
+            "Steve Jobs"
+          ],
+          "correctAnswer": "Vinton Cerf",
+          "points": 1
+        },
+        {
+          "id": 5,
+          "type": "mcq",
+          "question": "Internet is a network of:",
+          "options": [
+            "Computers only",
+            "Mobiles only",
+            "Networks",
+            "Servers only"
+          ],
+          "correctAnswer": "Networks",
+          "points": 1
+        },
+        {
+          "id": 6,
+          "type": "mcq",
+          "question": "Which protocol is the backbone of the Internet?",
+          "options": [
+            "FTP",
+            "TCP/IP",
+            "HTTP",
+            "SMTP"
+          ],
+          "correctAnswer": "TCP/IP",
+          "points": 1
+        },
+        {
+          "id": 7,
+          "type": "mcq",
+          "question": "Internet is a ______ network.",
+          "options": [
+            "Private",
+            "Local",
+            "Public",
+            "Office"
+          ],
+          "correctAnswer": "Public",
+          "points": 1
+        },
+        {
+          "id": 8,
+          "type": "mcq",
+          "question": "Which of the following is NOT an Internet service?",
+          "options": [
+            "Email",
+            "FTP",
+            "WWW",
+            "MS Word"
+          ],
+          "correctAnswer": "MS Word",
+          "points": 1
+        },
+        {
+          "id": 9,
+          "type": "mcq",
+          "question": "Internet allows sharing of:",
+          "options": [
+            "Data",
+            "Information",
+            "Resources",
+            "All of these"
+          ],
+          "correctAnswer": "All of these",
+          "points": 1
+        },
+        {
+          "id": 10,
+          "type": "mcq",
+          "question": "Internet was initially developed for:",
+          "options": [
+            "Education",
+            "Business",
+            "Military",
+            "Entertainment"
+          ],
+          "correctAnswer": "Military",
+          "points": 1
+        },
+        {
+          "id": 11,
+          "type": "mcq",
+          "question": "ARPA was formed in which year?",
+          "options": [
+            "1958",
+            "1969",
+            "1974",
+            "1989"
+          ],
+          "correctAnswer": "1958",
+          "points": 1
+        },
+        {
+          "id": 12,
+          "type": "mcq",
+          "question": "First computer network was:",
+          "options": [
+            "Internet",
+            "WWW",
+            "ARPANET",
+            "LAN"
+          ],
+          "correctAnswer": "ARPANET",
+          "points": 1
+        },
+        {
+          "id": 13,
+          "type": "mcq",
+          "question": "ARPANET started in which year?",
+          "options": [
+            "1958",
+            "1969",
+            "1974",
+            "1989"
+          ],
+          "correctAnswer": "1969",
+          "points": 1
+        },
+        {
+          "id": 14,
+          "type": "mcq",
+          "question": "First Internet message was:",
+          "options": [
+            "LOGIN",
+            "HELLO",
+            "LO",
+            "START"
+          ],
+          "correctAnswer": "LO",
+          "points": 1
+        },
+        {
+          "id": 15,
+          "type": "mcq",
+          "question": "TCP/IP was developed in which year?",
+          "options": [
+            "1958",
+            "1969",
+            "1974",
+            "1989"
+          ],
+          "correctAnswer": "1974",
+          "points": 1
+        },
+        {
+          "id": 16,
+          "type": "mcq",
+          "question": "Intranet is a:",
+          "options": [
+            "Public network",
+            "Private network",
+            "Global network",
+            "Wireless network"
+          ],
+          "correctAnswer": "Private network",
+          "points": 1
+        },
+        {
+          "id": 17,
+          "type": "mcq",
+          "question": "Extranet allows access to:",
+          "options": [
+            "Anyone",
+            "Employees only",
+            "Authorized outsiders",
+            "Hackers"
+          ],
+          "correctAnswer": "Authorized outsiders",
+          "points": 1
+        },
+        {
+          "id": 18,
+          "type": "mcq",
+          "question": "WWW stands for:",
+          "options": [
+            "World Web Wide",
+            "Wide World Web",
+            "World Wide Web",
+            "Web World Wide"
+          ],
+          "correctAnswer": "World Wide Web",
+          "points": 1
+        },
+        {
+          "id": 19,
+          "type": "mcq",
+          "question": "WWW was invented by:",
+          "options": [
+            "Vinton Cerf",
+            "Bill Gates",
+            "Tim Berners-Lee",
+            "Steve Jobs"
+          ],
+          "correctAnswer": "Tim Berners-Lee",
+          "points": 1
+        },
+        {
+          "id": 20,
+          "type": "mcq",
+          "question": "WWW works on which protocol?",
+          "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "TCP"
+          ],
+          "correctAnswer": "HTTP",
+          "points": 1
+        },
+        {
+          "id": 21,
+          "type": "mcq",
+          "question": "URL stands for:",
+          "options": [
+            "Universal Resource Link",
+            "Uniform Resource Locator",
+            "Uniform Remote Link",
+            "Universal Router Locator"
+          ],
+          "correctAnswer": "Uniform Resource Locator",
+          "points": 1
+        },
+        {
+          "id": 22,
+          "type": "mcq",
+          "question": "Website is stored on:",
+          "options": [
+            "Browser",
+            "Client",
+            "Web Server",
+            "Router"
+          ],
+          "correctAnswer": "Web Server",
+          "points": 1
+        },
+        {
+          "id": 23,
+          "type": "mcq",
+          "question": "Which is a web browser?",
+          "options": [
+            "Google",
+            "Chrome",
+            "Yahoo",
+            "Bing"
+          ],
+          "correctAnswer": "Chrome",
+          "points": 1
+        },
+        {
+          "id": 24,
+          "type": "mcq",
+          "question": "Which is a search engine?",
+          "options": [
+            "Firefox",
+            "Chrome",
+            "Google",
+            "Safari"
+          ],
+          "correctAnswer": "Google",
+          "points": 1
+        },
+        {
+          "id": 25,
+          "type": "mcq",
+          "question": "HTTPS is secure because it uses:",
+          "options": [
+            "FTP",
+            "SSL/TLS",
+            "IP",
+            "UDP"
+          ],
+          "correctAnswer": "SSL/TLS",
+          "points": 1
+        },
+        {
+          "id": 26,
+          "type": "mcq",
+          "question": "FTP is used for:",
+          "options": [
+            "Email",
+            "File transfer",
+            "Video call",
+            "Browsing"
+          ],
+          "correctAnswer": "File transfer",
+          "points": 1
+        },
+        {
+          "id": 27,
+          "type": "mcq",
+          "question": "TCP ensures:",
+          "options": [
+            "Fast delivery",
+            "Reliable transmission",
+            "Encryption",
+            "Routing"
+          ],
+          "correctAnswer": "Reliable transmission",
+          "points": 1
+        },
+        {
+          "id": 28,
+          "type": "mcq",
+          "question": "IP works at which OSI layer?",
+          "options": [
+            "Transport",
+            "Network",
+            "Data Link",
+            "Physical"
+          ],
+          "correctAnswer": "Network",
+          "points": 1
+        },
+        {
+          "id": 29,
+          "type": "mcq",
+          "question": "Telnet is used for:",
+          "options": [
+            "File transfer",
+            "Remote login",
+            "Email",
+            "Video call"
+          ],
+          "correctAnswer": "Remote login",
+          "points": 1
+        },
+        {
+          "id": 30,
+          "type": "mcq",
+          "question": "VoIP is used for:",
+          "options": [
+            "Messaging",
+            "File transfer",
+            "Internet calling",
+            "Printing"
+          ],
+          "correctAnswer": "Internet calling",
+          "points": 1
+        },
+        {
+          "id": 31,
+          "type": "mcq",
+          "question": "Router works at which OSI layer?",
+          "options": [
+            "Physical",
+            "Data Link",
+            "Network",
+            "Application"
+          ],
+          "correctAnswer": "Network",
+          "points": 1
+        },
+        {
+          "id": 32,
+          "type": "mcq",
+          "question": "Switch works at which layer?",
+          "options": [
+            "Physical",
+            "Data Link",
+            "Network",
+            "Transport"
+          ],
+          "correctAnswer": "Data Link",
+          "points": 1
+        },
+        {
+          "id": 33,
+          "type": "mcq",
+          "question": "Hub works at which layer?",
+          "options": [
+            "Network",
+            "Data Link",
+            "Physical",
+            "Application"
+          ],
+          "correctAnswer": "Physical",
+          "points": 1
+        },
+        {
+          "id": 34,
+          "type": "mcq",
+          "question": "Gateway works at:",
+          "options": [
+            "Layer 3",
+            "Layer 4",
+            "Layer 7",
+            "All layers"
+          ],
+          "correctAnswer": "All layers",
+          "points": 1
+        },
+        {
+          "id": 35,
+          "type": "mcq",
+          "question": "NIC is used to:",
+          "options": [
+            "Store data",
+            "Print data",
+            "Connect to network",
+            "Encrypt data"
+          ],
+          "correctAnswer": "Connect to network",
+          "points": 1
+        },
+        {
+          "id": 36,
+          "type": "mcq",
+          "question": "Downloading means:",
+          "options": [
+            "Client to server",
+            "Server to client",
+            "Client to client",
+            "None"
+          ],
+          "correctAnswer": "Server to client",
+          "points": 1
+        },
+        {
+          "id": 37,
+          "type": "mcq",
+          "question": "Uploading means:",
+          "options": [
+            "Server to client",
+            "Client to server",
+            "Server to server",
+            "None"
+          ],
+          "correctAnswer": "Client to server",
+          "points": 1
+        },
+        {
+          "id": 38,
+          "type": "mcq",
+          "question": "Surfing means:",
+          "options": [
+            "Downloading",
+            "Browsing websites",
+            "Searching",
+            "Uploading"
+          ],
+          "correctAnswer": "Browsing websites",
+          "points": 1
+        },
+        {
+          "id": 39,
+          "type": "mcq",
+          "question": "Searching uses:",
+          "options": [
+            "Browser only",
+            "Search engine",
+            "FTP",
+            "IP"
+          ],
+          "correctAnswer": "Search engine",
+          "points": 1
+        },
+        {
+          "id": 40,
+          "type": "mcq",
+          "question": "Cookies are used to:",
+          "options": [
+            "Hack user",
+            "Remember user",
+            "Delete data",
+            "Format disk"
+          ],
+          "correctAnswer": "Remember user",
+          "points": 1
+        },
+        {
+          "id": 41,
+          "type": "mcq",
+          "question": "IPv4 address size is:",
+          "options": [
+            "16-bit",
+            "32-bit",
+            "64-bit",
+            "128-bit"
+          ],
+          "correctAnswer": "32-bit",
+          "points": 1
+        },
+        {
+          "id": 42,
+          "type": "mcq",
+          "question": "IPv6 address size is:",
+          "options": [
+            "32-bit",
+            "64-bit",
+            "128-bit",
+            "256-bit"
+          ],
+          "correctAnswer": "128-bit",
+          "points": 1
+        },
+        {
+          "id": 43,
+          "type": "mcq",
+          "question": "MAC address is also known as:",
+          "options": [
+            "Logical address",
+            "Physical address",
+            "IP address",
+            "Virtual address"
+          ],
+          "correctAnswer": "Physical address",
+          "points": 1
+        },
+        {
+          "id": 44,
+          "type": "mcq",
+          "question": "MAC address length is:",
+          "options": [
+            "32-bit",
+            "48-bit",
+            "64-bit",
+            "128-bit"
+          ],
+          "correctAnswer": "48-bit",
+          "points": 1
+        },
+        {
+          "id": 45,
+          "type": "mcq",
+          "question": "Which device uses MAC address to forward data?",
+          "options": [
+            "Router",
+            "Switch",
+            "Gateway",
+            "Modem"
+          ],
+          "correctAnswer": "Switch",
+          "points": 1
+        },
+        {
+          "id": 46,
+          "type": "mcq",
+          "question": "Which device decides the best path for data?",
+          "options": [
+            "Hub",
+            "Switch",
+            "Router",
+            "Repeater"
+          ],
+          "correctAnswer": "Router",
+          "points": 1
+        },
+        {
+          "id": 47,
+          "type": "mcq",
+          "question": "Which device broadcasts data to all connected devices?",
+          "options": [
+            "Switch",
+            "Router",
+            "Hub",
+            "Bridge"
+          ],
+          "correctAnswer": "Hub",
+          "points": 1
+        },
+        {
+          "id": 48,
+          "type": "mcq",
+          "question": "Which device converts protocols between different networks?",
+          "options": [
+            "Router",
+            "Switch",
+            "Gateway",
+            "Repeater"
+          ],
+          "correctAnswer": "Gateway",
+          "points": 1
+        },
+        {
+          "id": 49,
+          "type": "mcq",
+          "question": "Which device is used to regenerate weak signals?",
+          "options": [
+            "Router",
+            "Switch",
+            "Repeater",
+            "Bridge"
+          ],
+          "correctAnswer": "Repeater",
+          "points": 1
+        },
+        {
+          "id": 50,
+          "type": "mcq",
+          "question": "NIC stands for:",
+          "options": [
+            "Network Internet Card",
+            "Network Interface Card",
+            "New Internet Connection",
+            "Network Internal Card"
+          ],
+          "correctAnswer": "Network Interface Card",
+          "points": 1
+        },
+        {
+          "id": 51,
+          "type": "mcq",
+          "question": "Modem is used to convert:",
+          "options": [
+            "IP to MAC",
+            "Digital to Analog only",
+            "Analog to Digital only",
+            "Both Analog and Digital"
+          ],
+          "correctAnswer": "Both Analog and Digital",
+          "points": 1
+        },
+        {
+          "id": 52,
+          "type": "mcq",
+          "question": "Which topology uses a central device?",
+          "options": [
+            "Bus",
+            "Ring",
+            "Star",
+            "Mesh"
+          ],
+          "correctAnswer": "Star",
+          "points": 1
+        },
+        {
+          "id": 53,
+          "type": "mcq",
+          "question": "Which topology uses a single backbone cable?",
+          "options": [
+            "Star",
+            "Ring",
+            "Mesh",
+            "Bus"
+          ],
+          "correctAnswer": "Bus",
+          "points": 1
+        },
+        {
+          "id": 54,
+          "type": "mcq",
+          "question": "Which topology is most reliable?",
+          "options": [
+            "Bus",
+            "Ring",
+            "Star",
+            "Mesh"
+          ],
+          "correctAnswer": "Mesh",
+          "points": 1
+        },
+        {
+          "id": 55,
+          "type": "mcq",
+          "question": "Token passing technique is used in:",
+          "options": [
+            "Star topology",
+            "Bus topology",
+            "Ring topology",
+            "Mesh topology"
+          ],
+          "correctAnswer": "Ring topology",
+          "points": 1
+        },
+        {
+          "id": 56,
+          "type": "mcq",
+          "question": "PAN covers area up to:",
+          "options": [
+            "1–10 meters",
+            "1 km",
+            "10 km",
+            "100 km"
+          ],
+          "correctAnswer": "1–10 meters",
+          "points": 1
+        },
+        {
+          "id": 57,
+          "type": "mcq",
+          "question": "LAN generally covers:",
+          "options": [
+            "World",
+            "City",
+            "Building",
+            "Country"
+          ],
+          "correctAnswer": "Building",
+          "points": 1
+        },
+        {
+          "id": 58,
+          "type": "mcq",
+          "question": "MAN covers which area?",
+          "options": [
+            "Room",
+            "Building",
+            "City",
+            "World"
+          ],
+          "correctAnswer": "City",
+          "points": 1
+        },
+        {
+          "id": 59,
+          "type": "mcq",
+          "question": "WAN example is:",
+          "options": [
+            "Office LAN",
+            "College Network",
+            "Internet",
+            "Bluetooth"
+          ],
+          "correctAnswer": "Internet",
+          "points": 1
+        },
+        {
+          "id": 60,
+          "type": "mcq",
+          "question": "WLAN uses which technology?",
+          "options": [
+            "Ethernet",
+            "Fiber",
+            "Wi-Fi",
+            "USB"
+          ],
+          "correctAnswer": "Wi-Fi",
+          "points": 1
+        },
+        {
+          "id": 61,
+          "type": "mcq",
+          "question": "VPN stands for:",
+          "options": [
+            "Virtual Private Network",
+            "Verified Public Network",
+            "Visual Private Network",
+            "Virtual Protected Network"
+          ],
+          "correctAnswer": "Virtual Private Network",
+          "points": 1
+        },
+        {
+          "id": 62,
+          "type": "mcq",
+          "question": "VPN is mainly used for:",
+          "options": [
+            "Increasing speed",
+            "Privacy and security",
+            "Printing data",
+            "Formatting system"
+          ],
+          "correctAnswer": "Privacy and security",
+          "points": 1
+        },
+        {
+          "id": 63,
+          "type": "mcq",
+          "question": "VPN hides user's:",
+          "options": [
+            "Browser",
+            "MAC address",
+            "IP address",
+            "IMEI number"
+          ],
+          "correctAnswer": "IP address",
+          "points": 1
+        },
+        {
+          "id": 64,
+          "type": "mcq",
+          "question": "Search engine is used to:",
+          "options": [
+            "Play games",
+            "Search information",
+            "Edit images",
+            "Watch movies"
+          ],
+          "correctAnswer": "Search information",
+          "points": 1
+        },
+        {
+          "id": 65,
+          "type": "mcq",
+          "question": "Which of the following is a search engine?",
+          "options": [
+            "Chrome",
+            "Google",
+            "Windows",
+            "Android"
+          ],
+          "correctAnswer": "Google",
+          "points": 1
+        },
+        {
+          "id": 66,
+          "type": "mcq",
+          "question": "Surfing means:",
+          "options": [
+            "Downloading files",
+            "Browsing websites",
+            "Uploading data",
+            "Searching keywords"
+          ],
+          "correctAnswer": "Browsing websites",
+          "points": 1
+        },
+        {
+          "id": 67,
+          "type": "mcq",
+          "question": "Searching is done using:",
+          "options": [
+            "Web browser",
+            "Search engine",
+            "FTP",
+            "Router"
+          ],
+          "correctAnswer": "Search engine",
+          "points": 1
+        },
+        {
+          "id": 68,
+          "type": "mcq",
+          "question": "Bookmark is used to:",
+          "options": [
+            "Delete webpage",
+            "Save webpage URL",
+            "Download webpage",
+            "Print webpage"
+          ],
+          "correctAnswer": "Save webpage URL",
+          "points": 1
+        },
+        {
+          "id": 69,
+          "type": "mcq",
+          "question": "Cookies are stored in:",
+          "options": [
+            "Server",
+            "Router",
+            "Browser",
+            "Switch"
+          ],
+          "correctAnswer": "Browser",
+          "points": 1
+        },
+        {
+          "id": 70,
+          "type": "mcq",
+          "question": "Cookies are used to:",
+          "options": [
+            "Hack system",
+            "Remember user information",
+            "Delete data",
+            "Slow browser"
+          ],
+          "correctAnswer": "Remember user information",
+          "points": 1
+        },
+        {
+          "id": 71,
+          "type": "mcq",
+          "question": "Third-party cookies are mainly used for:",
+          "options": [
+            "Security",
+            "Advertising and tracking",
+            "Printing",
+            "Encryption"
+          ],
+          "correctAnswer": "Advertising and tracking",
+          "points": 1
+        },
+        {
+          "id": 72,
+          "type": "mcq",
+          "question": "Zombie cookies are:",
+          "options": [
+            "Permanent cookies",
+            "Secure cookies",
+            "Recreated after deletion",
+            "Temporary cookies"
+          ],
+          "correctAnswer": "Recreated after deletion",
+          "points": 1
+        },
+        {
+          "id": 73,
+          "type": "mcq",
+          "question": "Downloading means:",
+          "options": [
+            "Client to server",
+            "Server to client",
+            "Client to client",
+            "None"
+          ],
+          "correctAnswer": "Server to client",
+          "points": 1
+        },
+        {
+          "id": 74,
+          "type": "mcq",
+          "question": "Uploading means:",
+          "options": [
+            "Server to client",
+            "Client to server",
+            "Server to server",
+            "None"
+          ],
+          "correctAnswer": "Client to server",
+          "points": 1
+        },
+        {
+          "id": 75,
+          "type": "mcq",
+          "question": "Printing a webpage means:",
+          "options": [
+            "Saving file",
+            "Uploading data",
+            "Taking paper output",
+            "Sharing link"
+          ],
+          "correctAnswer": "Taking paper output",
+          "points": 1
+        },
+        {
+          "id": 76,
+          "type": "mcq",
+          "question": "Web browser is used to:",
+          "options": [
+            "Store website",
+            "Access website",
+            "Host website",
+            "Design website"
+          ],
+          "correctAnswer": "Access website",
+          "points": 1
+        },
+        {
+          "id": 77,
+          "type": "mcq",
+          "question": "Which is a web browser?",
+          "options": [
+            "Google",
+            "Chrome",
+            "Yahoo",
+            "Bing"
+          ],
+          "correctAnswer": "Chrome",
+          "points": 1
+        },
+        {
+          "id": 78,
+          "type": "mcq",
+          "question": "Which is a web portal?",
+          "options": [
+            "IRCTC",
+            "HTML",
+            "TCP",
+            "IP"
+          ],
+          "correctAnswer": "IRCTC",
+          "points": 1
+        },
+        {
+          "id": 79,
+          "type": "mcq",
+          "question": "Blog posts are shown in:",
+          "options": [
+            "Alphabetical order",
+            "Random order",
+            "Reverse chronological order",
+            "Ascending order"
+          ],
+          "correctAnswer": "Reverse chronological order",
+          "points": 1
+        },
+        {
+          "id": 80,
+          "type": "mcq",
+          "question": "E-commerce means:",
+          "options": [
+            "Online education",
+            "Online communication",
+            "Online buying and selling",
+            "Online chatting"
+          ],
+          "correctAnswer": "Online buying and selling",
+          "points": 1
+        },
+        {
+          "id": 81,
+          "type": "mcq",
+          "question": "B2C stands for:",
+          "options": [
+            "Business to Company",
+            "Business to Consumer",
+            "Buyer to Customer",
+            "Business to Client"
+          ],
+          "correctAnswer": "Business to Consumer",
+          "points": 1
+        },
+        {
+          "id": 82,
+          "type": "mcq",
+          "question": "Example of B2B e-commerce is:",
+          "options": [
+            "Amazon",
+            "Flipkart",
+            "IndiaMART",
+            "OLX"
+          ],
+          "correctAnswer": "IndiaMART",
+          "points": 1
+        },
+        {
+          "id": 83,
+          "type": "mcq",
+          "question": "Example of C2C e-commerce is:",
+          "options": [
+            "Amazon",
+            "Flipkart",
+            "OLX",
+            "IndiaMART"
+          ],
+          "correctAnswer": "OLX",
+          "points": 1
+        },
+        {
+          "id": 84,
+          "type": "mcq",
+          "question": "Which network covers worldwide area?",
+          "options": [
+            "LAN",
+            "MAN",
+            "WAN",
+            "PAN"
+          ],
+          "correctAnswer": "WAN",
+          "points": 1
+        },
+        {
+          "id": 85,
+          "type": "mcq",
+          "question": "Global Internet is also called:",
+          "options": [
+            "LAN",
+            "GAN",
+            "PAN",
+            "CAN"
+          ],
+          "correctAnswer": "GAN",
+          "points": 1
+        },
+        {
+          "id": 86,
+          "type": "mcq",
+          "question": "SAN is mainly used in:",
+          "options": [
+            "Homes",
+            "Schools",
+            "Data centers",
+            "Cafes"
+          ],
+          "correctAnswer": "Data centers",
+          "points": 1
+        },
+        {
+          "id": 87,
+          "type": "mcq",
+          "question": "Which network is used at home?",
+          "options": [
+            "MAN",
+            "WAN",
+            "HAN",
+            "CAN"
+          ],
+          "correctAnswer": "HAN",
+          "points": 1
+        },
+        {
+          "id": 88,
+          "type": "mcq",
+          "question": "Which organization manages IP addresses?",
+          "options": [
+            "W3C",
+            "IETF",
+            "IANA",
+            "IAB"
+          ],
+          "correctAnswer": "IANA",
+          "points": 1
+        },
+        {
+          "id": 89,
+          "type": "mcq",
+          "question": "Which organization develops Internet standards?",
+          "options": [
+            "IETF",
+            "IANA",
+            "IRTF",
+            "NIC"
+          ],
+          "correctAnswer": "IETF",
+          "points": 1
+        },
+        {
+          "id": 90,
+          "type": "mcq",
+          "question": "W3C works for:",
+          "options": [
+            "Internet security",
+            "Web standards",
+            "IP allocation",
+            "Routing"
+          ],
+          "correctAnswer": "Web standards",
+          "points": 1
+        },
+        {
+          "id": 91,
+          "type": "mcq",
+          "question": "World Wide Web was developed at:",
+          "options": [
+            "NASA",
+            "CERN",
+            "MIT",
+            "IBM"
+          ],
+          "correctAnswer": "CERN",
+          "points": 1
+        },
+        {
+          "id": 92,
+          "type": "mcq",
+          "question": "First ISP in India was:",
+          "options": [
+            "BSNL",
+            "Airtel",
+            "VSNL",
+            "Jio"
+          ],
+          "correctAnswer": "VSNL",
+          "points": 1
+        },
+        {
+          "id": 93,
+          "type": "mcq",
+          "question": "Default port number of HTTP is:",
+          "options": [
+            "21",
+            "23",
+            "80",
+            "443"
+          ],
+          "correctAnswer": "80",
+          "points": 1
+        },
+        {
+          "id": 94,
+          "type": "mcq",
+          "question": "Default port number of HTTPS is:",
+          "options": [
+            "21",
+            "25",
+            "80",
+            "443"
+          ],
+          "correctAnswer": "443",
+          "points": 1
+        },
+        {
+          "id": 95,
+          "type": "mcq",
+          "question": "FTP command port number is:",
+          "options": [
+            "20",
+            "21",
+            "23",
+            "25"
+          ],
+          "correctAnswer": "21",
+          "points": 1
+        },
+        {
+          "id": 96,
+          "type": "mcq",
+          "question": "Telnet default port number is:",
+          "options": [
+            "21",
+            "22",
+            "23",
+            "25"
+          ],
+          "correctAnswer": "23",
+          "points": 1
+        },
+        {
+          "id": 97,
+          "type": "mcq",
+          "question": "TCP works at which OSI layer?",
+          "options": [
+            "Network",
+            "Transport",
+            "Session",
+            "Application"
+          ],
+          "correctAnswer": "Transport",
+          "points": 1
+        },
+        {
+          "id": 98,
+          "type": "mcq",
+          "question": "IP works at which OSI layer?",
+          "options": [
+            "Transport",
+            "Network",
+            "Data Link",
+            "Physical"
+          ],
+          "correctAnswer": "Network",
+          "points": 1
+        },
+        {
+          "id": 99,
+          "type": "mcq",
+          "question": "Which OSI layer is responsible for routing?",
+          "options": [
+            "Data Link",
+            "Transport",
+            "Network",
+            "Session"
+          ],
+          "correctAnswer": "Network",
+          "points": 1
+        },
+        {
+          "id": 100,
+          "type": "mcq",
+          "question": "Which OSI layer provides end-to-end communication?",
+          "options": [
+            "Network",
+            "Transport",
+            "Data Link",
+            "Physical"
+          ],
+          "correctAnswer": "Transport",
+          "points": 1
+        }
+      ]
     },
     {
       "id": 35,
