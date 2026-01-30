@@ -28130,125 +28130,111 @@
   {
     "id": 1,
     "type": "mcq",
-    "question": "A presentation is a collection of ________.",
-    "options": ["Pages", "Slides", "Documents", "Sheets"],
+    "question": "A presentation is best described as a collection of:",
+    "options": ["Documents", "Worksheets", "Slides", "Pages"],
     "correctAnswer": "Slides",
     "points": 1
   },
   {
     "id": 2,
     "type": "mcq",
-    "question": "Presentation is mainly used to present information in a ________ way.",
-    "options": ["Written", "Visual", "Audio", "Numeric"],
-    "correctAnswer": "Visual",
-    "points": 1
-  },
-  {
-    "id": 3,
-    "type": "mcq",
-    "question": "Which software is used for presentation in LibreOffice?",
+    "question": "Which LibreOffice application is used to create presentations?",
     "options": ["Writer", "Calc", "Impress", "Draw"],
     "correctAnswer": "Impress",
     "points": 1
   },
   {
+    "id": 3,
+    "type": "mcq",
+    "question": "The file extension of LibreOffice Impress presentation is:",
+    "options": [".ppt", ".pptx", ".odp", ".odt"],
+    "correctAnswer": ".odp",
+    "points": 1
+  },
+  {
     "id": 4,
     "type": "mcq",
-    "question": "Microsoft PowerPoint is part of ________.",
-    "options": ["LibreOffice", "MS Office", "Google Docs", "OpenOffice"],
-    "correctAnswer": "MS Office",
+    "question": "Which software is used for presentation in MS Office?",
+    "options": ["Word", "Excel", "PowerPoint", "Access"],
+    "correctAnswer": "PowerPoint",
     "points": 1
   },
   {
     "id": 5,
     "type": "mcq",
-    "question": "The file extension of LibreOffice Impress is ________.",
-    "options": [".ppt", ".pptx", ".odp", ".doc"],
-    "correctAnswer": ".odp",
+    "question": "Presentations are mainly used for:",
+    "options": ["Data storage", "Visual communication", "Programming", "Accounting"],
+    "correctAnswer": "Visual communication",
     "points": 1
   },
+
   {
     "id": 6,
     "type": "mcq",
-    "question": "Which of the following is NOT a use of presentation?",
-    "options": ["Teaching", "Business meetings", "Playing games", "Seminars"],
-    "correctAnswer": "Playing games",
+    "question": "Which pane displays small previews of all slides?",
+    "options": ["Workspace", "Task Pane", "Slide Pane", "Status Bar"],
+    "correctAnswer": "Slide Pane",
     "points": 1
   },
   {
     "id": 7,
     "type": "mcq",
-    "question": "The left side of Impress screen contains ________.",
-    "options": ["Task Pane", "Workspace", "Slide Pane", "Menu Bar"],
-    "correctAnswer": "Slide Pane",
+    "question": "The main area where slides are designed is called:",
+    "options": ["Slide Pane", "Workspace", "Task Pane", "Menu Bar"],
+    "correctAnswer": "Workspace",
     "points": 1
   },
   {
     "id": 8,
     "type": "mcq",
-    "question": "Slide Pane shows ________.",
-    "options": ["Tools", "Text only", "Slide thumbnails", "Animations"],
-    "correctAnswer": "Slide thumbnails",
+    "question": "Which pane is used to apply layouts, themes and animations?",
+    "options": ["Slide Pane", "Workspace", "Task Pane", "Toolbar"],
+    "correctAnswer": "Task Pane",
     "points": 1
   },
   {
     "id": 9,
     "type": "mcq",
-    "question": "Which pane is used to rearrange slides?",
-    "options": ["Task Pane", "Slide Pane", "Status Bar", "Toolbar"],
-    "correctAnswer": "Slide Pane",
+    "question": "Which view shows slides in sequence for easy rearrangement?",
+    "options": ["Normal View", "Outline View", "Notes View", "Slide Sorter View"],
+    "correctAnswer": "Slide Sorter View",
     "points": 1
   },
   {
     "id": 10,
     "type": "mcq",
-    "question": "The main working area in Impress is called ________.",
-    "options": ["Task Pane", "Slide Pane", "Workspace", "Menu"],
-    "correctAnswer": "Workspace",
+    "question": "Which view is mainly used to write speaker notes?",
+    "options": ["Normal View", "Outline View", "Notes View", "Slide Sorter View"],
+    "correctAnswer": "Notes View",
     "points": 1
   },
+
   {
     "id": 11,
     "type": "mcq",
-    "question": "Which view shows all slides together?",
-    "options": ["Normal View", "Notes View", "Outline View", "Slide Sorter View"],
-    "correctAnswer": "Slide Sorter View",
+    "question": "Which shortcut key is used to create a new slide?",
+    "options": ["Ctrl + N", "Ctrl + M", "Ctrl + O", "Ctrl + S"],
+    "correctAnswer": "Ctrl + M",
     "points": 1
   },
   {
     "id": 12,
     "type": "mcq",
-    "question": "Task Pane is located on the ________ side.",
-    "options": ["Left", "Right", "Top", "Bottom"],
-    "correctAnswer": "Right",
+    "question": "Which menu is used to add a new slide?",
+    "options": ["File", "Edit", "Slide", "View"],
+    "correctAnswer": "Slide",
     "points": 1
   },
   {
     "id": 13,
     "type": "mcq",
-    "question": "Which pane is used to apply layouts and themes?",
-    "options": ["Slide Pane", "Workspace", "Task Pane", "Menu Bar"],
-    "correctAnswer": "Task Pane",
+    "question": "A slide layout defines the:",
+    "options": ["Animation speed", "Background color", "Structure of slide", "Slide show timing"],
+    "correctAnswer": "Structure of slide",
     "points": 1
   },
   {
     "id": 14,
-    "type": "mcq",
-    "question": "Shortcut key to insert a new slide is ________.",
-    "options": ["Ctrl + N", "Ctrl + S", "Ctrl + M", "Ctrl + O"],
-    "correctAnswer": "Ctrl + M",
-    "points": 1
-  },
-  {
-    "id": 15,
-    "type": "mcq",
-    "question": "A layout defines the ________ of a slide.",
-    "options": ["Animation", "Structure", "Sound", "Speed"],
-    "correctAnswer": "Structure",
-    "points": 1
-  },
-  {
-    "id": 16,
     "type": "mcq",
     "question": "Which of the following is a slide layout?",
     "options": ["Fade", "Zoom", "Title and Content", "Fly In"],
@@ -28256,162 +28242,182 @@
     "points": 1
   },
   {
+    "id": 15,
+    "type": "mcq",
+    "question": "Which layout contains no placeholders?",
+    "options": ["Title Slide", "Title Only", "Blank Slide", "Two Content"],
+    "correctAnswer": "Blank Slide",
+    "points": 1
+  },
+
+  {
+    "id": 16,
+    "type": "mcq",
+    "question": "Themes mainly control:",
+    "options": ["Slide order", "Design and appearance", "Slide timing", "Printing options"],
+    "correctAnswer": "Design and appearance",
+    "points": 1
+  },
+  {
     "id": 17,
     "type": "mcq",
-    "question": "Themes control ________ of slides.",
-    "options": ["Calculation", "Formatting", "Printing", "Saving"],
-    "correctAnswer": "Formatting",
+    "question": "Which of the following is part of a theme?",
+    "options": ["Rows", "Columns", "Fonts", "Formulas"],
+    "correctAnswer": "Fonts",
     "points": 1
   },
   {
     "id": 18,
     "type": "mcq",
-    "question": "Themes include background, fonts and ________.",
-    "options": ["Rows", "Columns", "Colors", "Cells"],
-    "correctAnswer": "Colors",
+    "question": "Themes are applied from:",
+    "options": ["Menu Bar", "Slide Pane", "Task Pane", "Status Bar"],
+    "correctAnswer": "Task Pane",
     "points": 1
   },
   {
     "id": 19,
     "type": "mcq",
-    "question": "Which menu is used to insert images?",
-    "options": ["Edit", "View", "Insert", "Tools"],
-    "correctAnswer": "Insert",
+    "question": "Text can be inserted in a slide using:",
+    "options": ["Insert → Table", "Insert → Text Box", "Insert → Image", "Insert → Slide"],
+    "correctAnswer": "Insert → Text Box",
     "points": 1
   },
   {
     "id": 20,
     "type": "mcq",
-    "question": "Tables are used to show data in ________.",
-    "options": ["Lines", "Shapes", "Rows and columns", "Slides"],
-    "correctAnswer": "Rows and columns",
+    "question": "Which menu is used to insert an image in a slide?",
+    "options": ["Edit", "View", "Insert", "Tools"],
+    "correctAnswer": "Insert",
     "points": 1
   },
 
   {
     "id": 21,
     "type": "mcq",
-    "question": "Animations are applied to ________.",
-    "options": ["Slides only", "Text and objects", "Background only", "Printer"],
-    "correctAnswer": "Text and objects",
+    "question": "Tables in presentations are mainly used to show:",
+    "options": ["Pictures", "Audio", "Data in rows and columns", "Animations"],
+    "correctAnswer": "Data in rows and columns",
     "points": 1
   },
   {
     "id": 22,
     "type": "mcq",
-    "question": "Transitions are applied between ________.",
-    "options": ["Objects", "Text", "Two slides", "Images"],
-    "correctAnswer": "Two slides",
+    "question": "Which option is used to insert a table?",
+    "options": ["Insert → Image", "Insert → Chart", "Insert → Table", "Insert → Object"],
+    "correctAnswer": "Insert → Table",
     "points": 1
   },
   {
     "id": 23,
     "type": "mcq",
-    "question": "Shortcut to start slide show from beginning is ________.",
-    "options": ["Shift + F5", "Ctrl + F5", "F5", "Alt + F5"],
-    "correctAnswer": "F5",
+    "question": "Animations are applied to:",
+    "options": ["Slides only", "Text and objects", "Background only", "Printer"],
+    "correctAnswer": "Text and objects",
     "points": 1
   },
   {
     "id": 24,
     "type": "mcq",
-    "question": "Shortcut to start slide show from current slide is ________.",
-    "options": ["F5", "Shift + F5", "Ctrl + F5", "Alt + F5"],
-    "correctAnswer": "Shift + F5",
+    "question": "Which of the following is an animation effect?",
+    "options": ["Copy", "Fly In", "Slide Sorter", "Print"],
+    "correctAnswer": "Fly In",
     "points": 1
   },
   {
     "id": 25,
     "type": "mcq",
-    "question": "Which key is used to exit slide show?",
-    "options": ["Enter", "Space", "Esc", "Tab"],
-    "correctAnswer": "Esc",
+    "question": "Transitions are applied between:",
+    "options": ["Two objects", "Two slides", "Two images", "Two text boxes"],
+    "correctAnswer": "Two slides",
     "points": 1
   },
-   {
+
+  {
     "id": 26,
     "type": "mcq",
-    "question": "Which of the following is an animation effect?",
-    "options": ["Fade", "Fly In", "Slide", "Print"],
-    "correctAnswer": "Fly In",
+    "question": "Which of the following is a slide transition?",
+    "options": ["Paste", "Fly In", "Fade", "Copy"],
+    "correctAnswer": "Fade",
     "points": 1
   },
   {
     "id": 27,
     "type": "mcq",
-    "question": "Which of the following is a slide transition effect?",
-    "options": ["Zoom", "Fly In", "Fade", "Copy"],
-    "correctAnswer": "Fade",
+    "question": "Slide transitions are managed from:",
+    "options": ["Slide Pane", "Task Pane", "Menu Bar", "Workspace"],
+    "correctAnswer": "Task Pane",
     "points": 1
   },
   {
     "id": 28,
     "type": "mcq",
-    "question": "Animations are managed from which pane?",
-    "options": ["Slide Pane", "Task Pane", "Menu Bar", "Status Bar"],
-    "correctAnswer": "Task Pane",
+    "question": "Which mode is used to present slides to audience?",
+    "options": ["Edit mode", "Normal View", "Slide Show", "Outline View"],
+    "correctAnswer": "Slide Show",
     "points": 1
   },
   {
     "id": 29,
     "type": "mcq",
-    "question": "Slide show displays slides in which mode?",
-    "options": ["Window", "Edit", "Full screen", "Design"],
-    "correctAnswer": "Full screen",
-    "points": 1
-  },
-  {
-    "id": 30,
-    "type": "mcq",
-    "question": "Which shortcut key starts slide show from beginning?",
+    "question": "Shortcut key to start slide show from beginning is:",
     "options": ["Shift + F5", "Ctrl + F5", "F5", "Alt + F5"],
     "correctAnswer": "F5",
     "points": 1
   },
   {
-    "id": 31,
+    "id": 30,
     "type": "mcq",
-    "question": "Which shortcut key starts slide show from current slide?",
+    "question": "Shortcut key to start slide show from current slide is:",
     "options": ["F5", "Shift + F5", "Ctrl + F5", "Alt + F5"],
     "correctAnswer": "Shift + F5",
+    "points": 1
+  },
+
+  {
+    "id": 31,
+    "type": "mcq",
+    "question": "Which key is used to exit slide show?",
+    "options": ["Enter", "Spacebar", "Esc", "Tab"],
+    "correctAnswer": "Esc",
     "points": 1
   },
   {
     "id": 32,
     "type": "mcq",
-    "question": "Which key is used to exit slide show?",
-    "options": ["Enter", "Space", "Esc", "Tab"],
-    "correctAnswer": "Esc",
-    "points": 1
-  },
-  {
-    "id": 33,
-    "type": "mcq",
-    "question": "Which key shows black screen during slide show?",
+    "question": "Which key shows a black screen during slide show?",
     "options": ["W", "B", "Esc", "H"],
     "correctAnswer": "B",
     "points": 1
   },
   {
-    "id": 34,
+    "id": 33,
     "type": "mcq",
-    "question": "Which key shows white screen during slide show?",
+    "question": "Which key shows a white screen during slide show?",
     "options": ["B", "Esc", "W", "Enter"],
     "correctAnswer": "W",
     "points": 1
   },
   {
-    "id": 35,
+    "id": 34,
     "type": "mcq",
-    "question": "Which keys are used to move slides during slide show?",
-    "options": ["Enter key", "Arrow keys", "Ctrl key", "Alt key"],
+    "question": "Which keys are used to move between slides in slide show?",
+    "options": ["Function keys", "Arrow keys", "Ctrl keys", "Alt keys"],
     "correctAnswer": "Arrow keys",
     "points": 1
   },
   {
+    "id": 35,
+    "type": "mcq",
+    "question": "Printing slides is done using which menu?",
+    "options": ["Edit", "View", "File", "Insert"],
+    "correctAnswer": "File",
+    "points": 1
+  },
+
+  {
     "id": 36,
     "type": "mcq",
-    "question": "LibreOffice Impress allows printing of which of the following?",
+    "question": "Which of the following can be printed in Impress?",
     "options": ["Slides", "Handouts", "Notes", "All of these"],
     "correctAnswer": "All of these",
     "points": 1
@@ -28419,53 +28425,62 @@
   {
     "id": 37,
     "type": "mcq",
-    "question": "Printing option is available under which menu?",
-    "options": ["Edit", "View", "File", "Insert"],
-    "correctAnswer": "File",
+    "question": "Handouts are mainly printed for:",
+    "options": ["Computer", "Presenter", "Audience", "Printer"],
+    "correctAnswer": "Audience",
     "points": 1
   },
   {
     "id": 38,
     "type": "mcq",
-    "question": "Ctrl + N is used for:",
-    "options": ["New slide", "New presentation", "Open file", "Save"],
-    "correctAnswer": "New presentation",
+    "question": "Notes pages are useful for:",
+    "options": ["Students", "Presenter", "Printer", "Computer"],
+    "correctAnswer": "Presenter",
     "points": 1
   },
   {
     "id": 39,
     "type": "mcq",
-    "question": "Ctrl + Shift + N is used for:",
-    "options": ["New slide", "New template", "New file", "New image"],
-    "correctAnswer": "New template",
+    "question": "How many slides per page can be printed as handouts?",
+    "options": ["Only 1", "Only 2", "Only 4", "Multiple options"],
+    "correctAnswer": "Multiple options",
     "points": 1
   },
   {
     "id": 40,
     "type": "mcq",
-    "question": "Ctrl + O shortcut key is used to:",
+    "question": "Which shortcut creates a new presentation?",
+    "options": ["Ctrl + M", "Ctrl + N", "Ctrl + O", "Ctrl + S"],
+    "correctAnswer": "Ctrl + N",
+    "points": 1
+  },
+
+  {
+    "id": 41,
+    "type": "mcq",
+    "question": "Ctrl + O is used to:",
     "options": ["Save file", "Open file", "Close file", "Print file"],
     "correctAnswer": "Open file",
     "points": 1
   },
   {
-    "id": 41,
+    "id": 42,
     "type": "mcq",
-    "question": "Ctrl + S shortcut key is used to:",
-    "options": ["Save file", "Save As", "Print file", "Exit Impress"],
+    "question": "Ctrl + S is used to:",
+    "options": ["Save file", "Save As", "Print", "Exit"],
     "correctAnswer": "Save file",
     "points": 1
   },
   {
-    "id": 42,
+    "id": 43,
     "type": "mcq",
-    "question": "Ctrl + Shift + S shortcut key is used to:",
+    "question": "Ctrl + Shift + S is used for:",
     "options": ["Save", "Save As", "Print", "Exit"],
     "correctAnswer": "Save As",
     "points": 1
   },
   {
-    "id": 43,
+    "id": 44,
     "type": "mcq",
     "question": "Ctrl + Q is used to:",
     "options": ["Quit Impress", "Save file", "Close slide", "Start slide show"],
@@ -28473,25 +28488,18 @@
     "points": 1
   },
   {
-    "id": 44,
-    "type": "mcq",
-    "question": "F2 key is used to:",
-    "options": ["Edit text", "Print slide", "Save file", "Start show"],
-    "correctAnswer": "Edit text",
-    "points": 1
-  },
-  {
     "id": 45,
     "type": "mcq",
-    "question": "Ctrl + X is used for:",
+    "question": "Ctrl + X shortcut is used to:",
     "options": ["Copy", "Paste", "Cut", "Undo"],
     "correctAnswer": "Cut",
     "points": 1
   },
+
   {
     "id": 46,
     "type": "mcq",
-    "question": "Ctrl + C is used for:",
+    "question": "Ctrl + C shortcut is used to:",
     "options": ["Copy", "Cut", "Paste", "Save"],
     "correctAnswer": "Copy",
     "points": 1
@@ -28499,15 +28507,15 @@
   {
     "id": 47,
     "type": "mcq",
-    "question": "Ctrl + V is used for:",
-    "options": ["Copy", "Paste", "Cut", "Save"],
+    "question": "Ctrl + V shortcut is used to:",
+    "options": ["Copy", "Paste", "Cut", "Undo"],
     "correctAnswer": "Paste",
     "points": 1
   },
   {
     "id": 48,
     "type": "mcq",
-    "question": "Ctrl + Z is used for:",
+    "question": "Ctrl + Z shortcut is used to:",
     "options": ["Redo", "Undo", "Save", "Print"],
     "correctAnswer": "Undo",
     "points": 1
@@ -28515,7 +28523,7 @@
   {
     "id": 49,
     "type": "mcq",
-    "question": "Ctrl + Y is used for:",
+    "question": "Ctrl + Y shortcut is used to:",
     "options": ["Undo", "Redo", "Copy", "Cut"],
     "correctAnswer": "Redo",
     "points": 1
@@ -28524,411 +28532,421 @@
     "id": 50,
     "type": "mcq",
     "question": "Ctrl + H is used for:",
-    "options": ["Help", "Replace", "Find and Replace", "Hide"],
+    "options": ["Help", "Hide", "Find and Replace", "Highlight"],
     "correctAnswer": "Find and Replace",
     "points": 1
   },
   {
     "id": 51,
     "type": "mcq",
-    "question": "Ctrl + Shift + V is used for:",
-    "options": ["Paste", "Paste Special", "Copy", "Cut"],
-    "correctAnswer": "Paste Special",
+    "question": "Which shortcut key is used to edit selected text in a slide?",
+    "options": ["F1", "F2", "F3", "F4"],
+    "correctAnswer": "F2",
     "points": 1
   },
   {
     "id": 52,
     "type": "mcq",
-    "question": "Home key moves cursor to:",
-    "options": ["End", "Middle", "Start", "Bottom"],
-    "correctAnswer": "Start",
-    "points": 1
-  },
-  {
-    "id": 53,
-    "type": "mcq",
-    "question": "End key moves cursor to:",
-    "options": ["Start", "End", "Top", "Bottom"],
-    "correctAnswer": "End",
-    "points": 1
-  },
-  {
-    "id": 54,
-    "type": "mcq",
-    "question": "Ctrl + Shift + G is used to:",
-    "options": ["Ungroup objects", "Group objects", "Copy objects", "Paste objects"],
-    "correctAnswer": "Group objects",
-    "points": 1
-  },
-  {
-    "id": 55,
-    "type": "mcq",
-    "question": "Alt + Ctrl + Shift + G is used to:",
-    "options": ["Group objects", "Copy objects", "Ungroup objects", "Paste objects"],
-    "correctAnswer": "Ungroup objects",
-    "points": 1
-  },
-  {
-    "id": 56,
-    "type": "mcq",
-    "question": "F4 key is used to:",
-    "options": ["Repeat last action", "Save file", "Print file", "Exit show"],
-    "correctAnswer": "Repeat last action",
-    "points": 1
-  },
-  {
-    "id": 57,
-    "type": "mcq",
-    "question": "Ctrl + Shift + F8 is used to:",
-    "options": ["Edit text", "Edit points", "Insert image", "Print"],
-    "correctAnswer": "Edit points",
-    "points": 1
-  },
-  {
-    "id": 58,
-    "type": "mcq",
-    "question": "Which view is used to write speaker notes?",
-    "options": ["Normal View", "Outline View", "Notes View", "Slide Sorter View"],
-    "correctAnswer": "Notes View",
-    "points": 1
-  },
-  {
-    "id": 59,
-    "type": "mcq",
-    "question": "Outline View displays:",
-    "options": ["Images", "Animations", "Text structure", "Background"],
-    "correctAnswer": "Text structure",
-    "points": 1
-  },
-  {
-    "id": 60,
-    "type": "mcq",
-    "question": "Slide Sorter View is mainly used for:",
-    "options": ["Printing slides", "Reordering slides", "Typing text", "Inserting images"],
-    "correctAnswer": "Reordering slides",
-    "points": 1
-  },
-  {
-    "id": 61,
-    "type": "mcq",
-    "question": "Which shortcut opens Presenter Console?",
-    "options": ["F5", "Shift + F5", "Ctrl + Shift + F5", "Ctrl + F5"],
-    "correctAnswer": "Ctrl + Shift + F5",
-    "points": 1
-  },
-  {
-    "id": 62,
-    "type": "mcq",
-    "question": "Which of the following is NOT an animation?",
-    "options": ["Fly In", "Fade In", "Zoom", "Slide Pane"],
-    "correctAnswer": "Slide Pane",
-    "points": 1
-  },
-  {
-    "id": 63,
-    "type": "mcq",
-    "question": "Transition is applied to:",
-    "options": ["Object", "Text", "Slide", "Table"],
-    "correctAnswer": "Slide",
-    "points": 1
-  },
-  {
-    "id": 64,
-    "type": "mcq",
-    "question": "Which is NOT a feature of theme?",
-    "options": ["Fonts", "Colors", "Background", "Calculation"],
-    "correctAnswer": "Calculation",
-    "points": 1
-  },
-  {
-    "id": 65,
-    "type": "mcq",
-    "question": "LibreOffice Impress is a:",
-    "options": ["Spreadsheet software", "Word processor", "Presentation software", "Database software"],
-    "correctAnswer": "Presentation software",
-    "points": 1
-  },
-  {
-    "id": 66,
-    "type": "mcq",
-    "question": "Handouts are printed for:",
-    "options": ["Teacher", "Audience", "Computer", "Printer"],
-    "correctAnswer": "Audience",
-    "points": 1
-  },
-  {
-    "id": 67,
-    "type": "mcq",
-    "question": "Which menu option is used to exit Impress?",
-    "options": ["Save", "Print", "Quit", "Open"],
-    "correctAnswer": "Quit",
-    "points": 1
-  },
-  {
-    "id": 68,
-    "type": "mcq",
-    "question": "Workspace is mainly used for:",
-    "options": ["Printing", "Designing slides", "Running show", "Saving files"],
-    "correctAnswer": "Designing slides",
-    "points": 1
-  },
-  {
-    "id": 69,
-    "type": "mcq",
-    "question": "Which pane shows slide thumbnails?",
-    "options": ["Task Pane", "Workspace", "Slide Pane", "Status Bar"],
-    "correctAnswer": "Slide Pane",
-    "points": 1
-  },
-  {
-    "id": 70,
-    "type": "mcq",
-    "question": "Which is NOT available in Task Pane?",
-    "options": ["Layouts", "Themes", "Animations", "Slide thumbnails"],
-    "correctAnswer": "Slide thumbnails",
-    "points": 1
-  },
-  {
-    "id": 71,
-    "type": "mcq",
-    "question": "Images in slides help to:",
-    "options": ["Increase file size", "Make slides attractive", "Slow presentation", "Reduce text"],
-    "correctAnswer": "Make slides attractive",
-    "points": 1
-  },
-  {
-    "id": 72,
-    "type": "mcq",
-    "question": "Tables are best used for:",
-    "options": ["Audio data", "Image data", "Structured data", "Animation data"],
-    "correctAnswer": "Structured data",
-    "points": 1
-  },
-  {
-    "id": 73,
-    "type": "mcq",
-    "question": "Default view of LibreOffice Impress is:",
-    "options": ["Slide Sorter", "Notes View", "Normal View", "Outline View"],
-    "correctAnswer": "Normal View",
-    "points": 1
-  },
-  {
-    "id": 74,
-    "type": "mcq",
-    "question": "Which shortcut changes text case?",
+    "question": "Which shortcut key changes text case (upper/lower)?",
     "options": ["Shift + F2", "Shift + F3", "Ctrl + F3", "Alt + F3"],
     "correctAnswer": "Shift + F3",
     "points": 1
   },
   {
-    "id": 75,
+    "id": 53,
     "type": "mcq",
-    "question": "Ctrl + Q shortcut is used to:",
-    "options": ["Save file", "Open file", "Quit Impress", "Print file"],
-    "correctAnswer": "Quit Impress",
+    "question": "Home key moves the cursor to:",
+    "options": ["End of slide", "Beginning of slide", "Next slide", "Previous slide"],
+    "correctAnswer": "Beginning of slide",
     "points": 1
   },
   {
-    "id": 76,
+    "id": 54,
     "type": "mcq",
-    "question": "Which printing option is useful for presenter?",
-    "options": ["Slides", "Handouts", "Notes pages", "Outline"],
-    "correctAnswer": "Notes pages",
+    "question": "End key moves the cursor to:",
+    "options": ["Beginning of slide", "End of slide", "Next slide", "Previous slide"],
+    "correctAnswer": "End of slide",
     "points": 1
   },
   {
-    "id": 77,
+    "id": 55,
     "type": "mcq",
-    "question": "Which view shows only text outline?",
-    "options": ["Normal", "Notes", "Outline", "Slide Sorter"],
-    "correctAnswer": "Outline",
-    "points": 1
-  },
-  {
-    "id": 78,
-    "type": "mcq",
-    "question": "Which key repeats last action?",
+    "question": "Which shortcut key repeats the last action?",
     "options": ["F2", "F3", "F4", "F5"],
     "correctAnswer": "F4",
     "points": 1
   },
+
   {
-    "id": 79,
+    "id": 56,
     "type": "mcq",
-    "question": "Which of the following is NOT a slide layout?",
-    "options": ["Title Only", "Two Content", "Blank", "Fade"],
-    "correctAnswer": "Fade",
-    "points": 1
-  },
-  {
-    "id": 80,
-    "type": "mcq",
-    "question": "LibreOffice Impress is an:",
-    "options": ["Closed source software", "Paid software", "Open source software", "Licensed software"],
-    "correctAnswer": "Open source software",
-    "points": 1
-  },
-  {
-    "id": 81,
-    "type": "mcq",
-    "question": "Which pane helps in setting animation speed?",
-    "options": ["Slide Pane", "Task Pane", "Status Bar", "Menu Bar"],
-    "correctAnswer": "Task Pane",
-    "points": 1
-  },
-  {
-    "id": 82,
-    "type": "mcq",
-    "question": "Which of the following cannot be printed?",
-    "options": ["Slides", "Handouts", "Notes", "Source code"],
-    "correctAnswer": "Source code",
-    "points": 1
-  },
-  {
-    "id": 83,
-    "type": "mcq",
-    "question": "CCC Chapter-5 is related to:",
-    "options": ["Spreadsheet", "Word Processing", "Presentation", "Internet"],
-    "correctAnswer": "Presentation",
-    "points": 1
-  },
-  {
-    "id": 84,
-    "type": "mcq",
-    "question": "Which shortcut groups objects?",
+    "question": "Which shortcut key is used to group selected objects?",
     "options": ["Ctrl + G", "Ctrl + Shift + G", "Alt + G", "Shift + G"],
     "correctAnswer": "Ctrl + Shift + G",
     "points": 1
   },
   {
-    "id": 85,
+    "id": 57,
     "type": "mcq",
-    "question": "Which pane helps in applying animations?",
-    "options": ["Slide Pane", "Workspace", "Task Pane", "Menu Bar"],
-    "correctAnswer": "Task Pane",
+    "question": "Which shortcut key is used to ungroup selected objects?",
+    "options": ["Ctrl + U", "Ctrl + Alt + G", "Alt + Ctrl + Shift + G", "Shift + U"],
+    "correctAnswer": "Alt + Ctrl + Shift + G",
     "points": 1
   },
   {
-    "id": 86,
+    "id": 58,
     "type": "mcq",
-    "question": "Which file extension belongs to LibreOffice Impress?",
-    "options": [".docx", ".xlsx", ".odp", ".pdf"],
-    "correctAnswer": ".odp",
+    "question": "Which shortcut key is used to edit points of an object?",
+    "options": ["Ctrl + Shift + F7", "Ctrl + Shift + F8", "Ctrl + Shift + F9", "Ctrl + Shift + F10"],
+    "correctAnswer": "Ctrl + Shift + F8",
     "points": 1
   },
   {
-    "id": 87,
+    "id": 59,
     "type": "mcq",
-    "question": "Ctrl + Shift + + is used to:",
-    "options": ["Decrease size", "Increase size", "Copy", "Paste"],
-    "correctAnswer": "Increase size",
+    "question": "Which shortcut key opens Presenter Console in LibreOffice Impress?",
+    "options": ["F5", "Shift + F5", "Ctrl + Shift + F5", "Alt + F5"],
+    "correctAnswer": "Ctrl + Shift + F5",
     "points": 1
   },
   {
-    "id": 88,
+    "id": 60,
     "type": "mcq",
-    "question": "Which keys are used to move slides during slide show?",
-    "options": ["Ctrl keys", "Arrow keys", "Alt keys", "Shift keys"],
-    "correctAnswer": "Arrow keys",
+    "question": "Which key is used to show a black screen during slide show?",
+    "options": ["W", "B", "Esc", "Enter"],
+    "correctAnswer": "B",
+    "points": 1
+  },
+
+  {
+    "id": 61,
+    "type": "mcq",
+    "question": "Which key is used to show a white screen during slide show?",
+    "options": ["B", "W", "Esc", "Tab"],
+    "correctAnswer": "W",
     "points": 1
   },
   {
-    "id": 89,
+    "id": 62,
     "type": "mcq",
-    "question": "Notes pages are useful for:",
-    "options": ["Students", "Presenter", "Printer", "Computer"],
-    "correctAnswer": "Presenter",
+    "question": "Which view shows only the text structure of slides?",
+    "options": ["Normal View", "Outline View", "Notes View", "Slide Sorter View"],
+    "correctAnswer": "Outline View",
     "points": 1
   },
   {
-    "id": 90,
+    "id": 63,
     "type": "mcq",
-    "question": "Which view displays text structure only?",
-    "options": ["Normal", "Notes", "Outline", "Slide Sorter"],
-    "correctAnswer": "Outline",
-    "points": 1
-  },
-  {
-    "id": 91,
-    "type": "mcq",
-    "question": "New presentation can be created using:",
-    "options": ["Ctrl + M", "Ctrl + N", "Ctrl + O", "Ctrl + P"],
-    "correctAnswer": "Ctrl + N",
-    "points": 1
-  },
-  {
-    "id": 92,
-    "type": "mcq",
-    "question": "Which key is used to repeat last action?",
-    "options": ["F2", "F3", "F4", "F5"],
-    "correctAnswer": "F4",
-    "points": 1
-  },
-  {
-    "id": 93,
-    "type": "mcq",
-    "question": "Which option is used to insert table?",
-    "options": ["Insert → Chart", "Insert → Table", "Insert → Image", "Insert → Object"],
-    "correctAnswer": "Insert → Table",
-    "points": 1
-  },
-  {
-    "id": 94,
-    "type": "mcq",
-    "question": "Which option is used to insert image?",
-    "options": ["Insert → Image", "Insert → Table", "Insert → Chart", "Insert → Slide"],
-    "correctAnswer": "Insert → Image",
-    "points": 1
-  },
-  {
-    "id": 95,
-    "type": "mcq",
-    "question": "Which view is best for rearranging slides?",
+    "question": "Which view is best for arranging the order of slides?",
     "options": ["Normal View", "Outline View", "Notes View", "Slide Sorter View"],
     "correctAnswer": "Slide Sorter View",
     "points": 1
   },
   {
-    "id": 96,
+    "id": 64,
     "type": "mcq",
-    "question": "Which shortcut is used for new slide?",
-    "options": ["Ctrl + N", "Ctrl + M", "Ctrl + O", "Ctrl + S"],
-    "correctAnswer": "Ctrl + M",
+    "question": "Which view is most suitable for adding speaker notes?",
+    "options": ["Normal View", "Outline View", "Notes View", "Slide Sorter View"],
+    "correctAnswer": "Notes View",
     "points": 1
   },
   {
-    "id": 97,
+    "id": 65,
     "type": "mcq",
-    "question": "Which pane is used to apply themes?",
+    "question": "Which pane helps in selecting and deleting slides?",
+    "options": ["Task Pane", "Workspace", "Slide Pane", "Status Bar"],
+    "correctAnswer": "Slide Pane",
+    "points": 1
+  },
+
+  {
+    "id": 66,
+    "type": "mcq",
+    "question": "Which pane is mainly used for applying slide transitions?",
     "options": ["Slide Pane", "Workspace", "Task Pane", "Menu Bar"],
     "correctAnswer": "Task Pane",
     "points": 1
   },
   {
-    "id": 98,
+    "id": 67,
     "type": "mcq",
-    "question": "Which feature controls background, fonts and colors?",
+    "question": "Which of the following is NOT a slide transition?",
+    "options": ["Fade", "Wipe", "Fly In", "Slide"],
+    "correctAnswer": "Fly In",
+    "points": 1
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "question": "Which of the following is NOT an animation effect?",
+    "options": ["Fly In", "Fade In", "Zoom", "Master Slide"],
+    "correctAnswer": "Master Slide",
+    "points": 1
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "question": "Animations improve the:",
+    "options": ["File size", "Visual appeal", "Printing speed", "Storage capacity"],
+    "correctAnswer": "Visual appeal",
+    "points": 1
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "question": "Transitions are applied when:",
+    "options": ["Editing text", "Moving between slides", "Printing slides", "Saving file"],
+    "correctAnswer": "Moving between slides",
+    "points": 1
+  },
+
+  {
+    "id": 71,
+    "type": "mcq",
+    "question": "Which option allows inserting content without formatting?",
+    "options": ["Paste", "Paste Special", "Copy", "Cut"],
+    "correctAnswer": "Paste Special",
+    "points": 1
+  },
+  {
+    "id": 72,
+    "type": "mcq",
+    "question": "Which shortcut key is used for Paste Special?",
+    "options": ["Ctrl + Alt + V", "Ctrl + Shift + V", "Ctrl + V", "Alt + V"],
+    "correctAnswer": "Ctrl + Shift + V",
+    "points": 1
+  },
+  {
+    "id": 73,
+    "type": "mcq",
+    "question": "Which menu contains the option to start Slide Show?",
+    "options": ["File", "Edit", "View", "Slide Show"],
+    "correctAnswer": "Slide Show",
+    "points": 1
+  },
+  {
+    "id": 74,
+    "type": "mcq",
+    "question": "Which shortcut key is used to save a presentation?",
+    "options": ["Ctrl + P", "Ctrl + O", "Ctrl + S", "Ctrl + N"],
+    "correctAnswer": "Ctrl + S",
+    "points": 1
+  },
+  {
+    "id": 75,
+    "type": "mcq",
+    "question": "Which shortcut key is used for Save As?",
+    "options": ["Ctrl + Shift + S", "Ctrl + Alt + S", "Ctrl + S", "Ctrl + Q"],
+    "correctAnswer": "Ctrl + Shift + S",
+    "points": 1
+  },
+
+  {
+    "id": 76,
+    "type": "mcq",
+    "question": "Which shortcut key closes LibreOffice Impress?",
+    "options": ["Ctrl + W", "Ctrl + Q", "Alt + F4", "Ctrl + E"],
+    "correctAnswer": "Ctrl + Q",
+    "points": 1
+  },
+  {
+    "id": 77,
+    "type": "mcq",
+    "question": "Which of the following can be printed as handouts?",
+    "options": ["One slide per page", "Multiple slides per page", "Only notes", "Only outline"],
+    "correctAnswer": "Multiple slides per page",
+    "points": 1
+  },
+  {
+    "id": 78,
+    "type": "mcq",
+    "question": "Printing notes pages is useful mainly for:",
+    "options": ["Audience", "Presenter", "Printer", "Computer"],
+    "correctAnswer": "Presenter",
+    "points": 1
+  },
+  {
+    "id": 79,
+    "type": "mcq",
+    "question": "Which feature controls background, fonts and colors of slides?",
     "options": ["Layout", "Theme", "Animation", "Transition"],
     "correctAnswer": "Theme",
     "points": 1
   },
   {
+    "id": 80,
+    "type": "mcq",
+    "question": "Which layout is best when only a title is required?",
+    "options": ["Title Slide", "Title Only", "Blank Slide", "Two Content"],
+    "correctAnswer": "Title Only",
+    "points": 1
+  },
+
+  {
+    "id": 81,
+    "type": "mcq",
+    "question": "Which layout is suitable for comparing two topics?",
+    "options": ["Title Slide", "Blank Slide", "Two Content", "Title Only"],
+    "correctAnswer": "Two Content",
+    "points": 1
+  },
+  {
+    "id": 82,
+    "type": "mcq",
+    "question": "Which layout usually appears at the beginning of a presentation?",
+    "options": ["Title Slide", "Blank Slide", "Two Content", "Title Only"],
+    "correctAnswer": "Title Slide",
+    "points": 1
+  },
+  {
+    "id": 83,
+    "type": "mcq",
+    "question": "Which menu option is used to insert a text box?",
+    "options": ["Insert → Text Box", "Edit → Text", "View → Text Box", "Format → Text"],
+    "correctAnswer": "Insert → Text Box",
+    "points": 1
+  },
+  {
+    "id": 84,
+    "type": "mcq",
+    "question": "Which menu option is used to insert an image?",
+    "options": ["Insert → Image", "Edit → Image", "View → Image", "Format → Image"],
+    "correctAnswer": "Insert → Image",
+    "points": 1
+  },
+  {
+    "id": 85,
+    "type": "mcq",
+    "question": "Which menu option is used to insert a table?",
+    "options": ["Insert → Table", "Edit → Table", "View → Table", "Format → Table"],
+    "correctAnswer": "Insert → Table",
+    "points": 1
+  },
+
+  {
+    "id": 86,
+    "type": "mcq",
+    "question": "Which of the following best describes LibreOffice Impress?",
+    "options": ["Spreadsheet software", "Presentation software", "Database software", "Drawing software"],
+    "correctAnswer": "Presentation software",
+    "points": 1
+  },
+  {
+    "id": 87,
+    "type": "mcq",
+    "question": "LibreOffice is an example of:",
+    "options": ["Paid software", "Closed source software", "Open source software", "Trial software"],
+    "correctAnswer": "Open source software",
+    "points": 1
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "question": "Which file extension is used for LibreOffice Impress?",
+    "options": [".pptx", ".odp", ".odt", ".ods"],
+    "correctAnswer": ".odp",
+    "points": 1
+  },
+  {
+    "id": 89,
+    "type": "mcq",
+    "question": "Which shortcut key opens an existing presentation?",
+    "options": ["Ctrl + N", "Ctrl + O", "Ctrl + S", "Ctrl + M"],
+    "correctAnswer": "Ctrl + O",
+    "points": 1
+  },
+  {
+    "id": 90,
+    "type": "mcq",
+    "question": "Which shortcut key creates a new template in LibreOffice?",
+    "options": ["Ctrl + N", "Ctrl + Shift + N", "Ctrl + T", "Ctrl + Alt + N"],
+    "correctAnswer": "Ctrl + Shift + N",
+    "points": 1
+  },
+
+  {
+    "id": 91,
+    "type": "mcq",
+    "question": "Which feature helps in keeping slide design consistent?",
+    "options": ["Animation", "Theme", "Transition", "Notes"],
+    "correctAnswer": "Theme",
+    "points": 1
+  },
+  {
+    "id": 92,
+    "type": "mcq",
+    "question": "Which component is located on the right side of Impress window?",
+    "options": ["Slide Pane", "Task Pane", "Status Bar", "Menu Bar"],
+    "correctAnswer": "Task Pane",
+    "points": 1
+  },
+  {
+    "id": 93,
+    "type": "mcq",
+    "question": "Which component is located on the left side of Impress window?",
+    "options": ["Task Pane", "Workspace", "Slide Pane", "Menu Bar"],
+    "correctAnswer": "Slide Pane",
+    "points": 1
+  },
+  {
+    "id": 94,
+    "type": "mcq",
+    "question": "Which view is the default view in LibreOffice Impress?",
+    "options": ["Outline View", "Notes View", "Slide Sorter View", "Normal View"],
+    "correctAnswer": "Normal View",
+    "points": 1
+  },
+  {
+    "id": 95,
+    "type": "mcq",
+    "question": "Which of the following is NOT printed by LibreOffice Impress?",
+    "options": ["Slides", "Handouts", "Notes", "Source code"],
+    "correctAnswer": "Source code",
+    "points": 1
+  },
+
+  {
+    "id": 96,
+    "type": "mcq",
+    "question": "Which key combination increases the size of selected object?",
+    "options": ["Ctrl + +", "Ctrl + Shift + +", "Alt + +", "Shift + +"],
+    "correctAnswer": "Ctrl + Shift + +",
+    "points": 1
+  },
+  {
+    "id": 97,
+    "type": "mcq",
+    "question": "Which feature adds movement effects to slide objects?",
+    "options": ["Layout", "Theme", "Animation", "Transition"],
+    "correctAnswer": "Animation",
+    "points": 1
+  },
+  {
+    "id": 98,
+    "type": "mcq",
+    "question": "Which feature adds effect when changing slides?",
+    "options": ["Layout", "Theme", "Animation", "Transition"],
+    "correctAnswer": "Transition",
+    "points": 1
+  },
+  {
     "id": 99,
     "type": "mcq",
-    "question": "Which pane helps in slide management?",
-    "options": ["Task Pane", "Slide Pane", "Status Bar", "Menu Bar"],
-    "correctAnswer": "Slide Pane",
+    "question": "Which exam includes LibreOffice Impress in its syllabus?",
+    "options": ["SSC", "CCC", "UPSC", "Bank PO"],
+    "correctAnswer": "CCC",
     "points": 1
   },
   {
     "id": 100,
     "type": "mcq",
     "question": "LibreOffice Impress is mainly used for:",
-    "options": ["Typing letters", "Creating presentations", "Calculations", "Internet browsing"],
+    "options": ["Typing documents", "Creating presentations", "Making calculations", "Internet browsing"],
     "correctAnswer": "Creating presentations",
     "points": 1
   }
 ]
+
 
     },
     {
